@@ -1,0 +1,25 @@
+{
+  "abc": "123",
+  "def": 123,
+  "ghi": 13.0,
+  "aaa": "heehhe",
+  "obj": {
+    "abc": "123",
+    "def": 123,
+    "ghi": 13.0,
+    "aaa": "heehhe"
+  },
+  "sth": 12345,
+  "obj2": {
+    "abc": "123",
+    "def": 123,
+    "ghi": 13.0,
+    "aaa": "heehhe",
+    "obj": {
+      "abc": "123",
+      "def"     : 123,
+      "ghi" : 13.0,
+      "aaa"               : "heehhe"
+    }
+  }
+}
